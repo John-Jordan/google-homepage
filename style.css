@@ -9,9 +9,10 @@
 }
 
 .buttons {
-    display: inline;
+    display: block;
     margin: auto;
-    width: 200px;
+    width: 272px;
+    padding: 10px;
 }
 
 .searchbar {
